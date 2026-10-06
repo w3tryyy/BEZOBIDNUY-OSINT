@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "files": [
+    "client/app.js",
+    "modules/updater.js"
+  ]
+}
